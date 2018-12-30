@@ -1,14 +1,5 @@
-TypeScript tsconfig.json Demo
-============================
-
-`tsconfig.json`是typescript项目的说明文件，指定`tsc`所需要的各个参数。
-
-```
-npm install
-npm run tsc
-```
-
-或者使用`ts-node`:
+TypeScript Define Module Type Inside the Module Itself Demo
+============================================================
 
 ```
 npm run demo
@@ -16,4 +7,4 @@ npm run demo
 
 Resources
 ---------
-- tsconfig详解：<https://www.typescriptlang.org/docs/handbook/tsconfig-json.html>
+- https://stackoverflow.com/questions/53970486/how-to-define-a-type-for-a-module-inside-the-module-itself
